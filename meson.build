@@ -5,7 +5,7 @@ project('suru-blue-icon-theme',
     default_options: ['prefix=/usr']
 )
 
-install_subdir('Suru',
+install_subdir('Suru-Blue',
     install_dir: join_paths(get_option('prefix'), 'share/icons')
 )
 

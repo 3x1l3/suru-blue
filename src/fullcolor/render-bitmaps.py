@@ -24,10 +24,10 @@ import subprocess
 import argparse
 
 
-INKSCAPE = ['/usr/bin/flatpak','run','org.inkscape.Inkscape','--shell']
-# INKSCAPE = ['/usr/bin/inkscape','--shell']
+#INKSCAPE = ['/usr/bin/flatpak','run','org.inkscape.Inkscape','--shell']
+INKSCAPE = ['/usr/bin/inkscape','--shell']
 OPTIPNG = '/usr/bin/optipng'
-MAINDIR = '../../Suru'
+MAINDIR = '../../Suru-Blue'
 # SRC = 'fullcolor'
 SOURCES = ('apps', 'categories', 'emblems', 'devices', 'mimetypes', 'places', 'status')
 
