@@ -1,5 +1,14 @@
-Suru Icons & Cursors
+Suru-Blue Icons & Cursor
 ====================
+
+Suru-Blue is a blue variation of the Suru icon theme. So far the folder colors are the only thing that I've changed in this theme. Like so: 
+
+![](./folders.png)
+
+I've set the fallback icon sets to to be
+
+- [Moka](https://snwh.org/moka/download)
+- [Faba](https://snwh.org/moka/download)
 
 This project is a revitalization of the Suru icon set that was designed for Ubuntu Touch. The principles and styles created for Suru now serve as the basis for a new FreeDesktop icon theme.
 
@@ -28,9 +37,9 @@ After which you should be able to pick Suru as your icon or cursor theme in GNOM
 
 ```bash
 # set the icon theme
-gsettings set org.gnome.desktop.interface icon-theme "Suru"
+gsettings set org.gnome.desktop.interface icon-theme "Suru-Blue"
 # or the cursor theme
-gsettings set org.gnome.desktop.interface cursor-theme "Suru"
+gsettings set org.gnome.desktop.interface cursor-theme "Suru-Blue"
 ```
 
 ### Uninstalling Suru
